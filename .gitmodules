@@ -1,0 +1,3 @@
+[submodule "statistics_and_data_analysis"]
+	path = statistics_and_data_analysis
+	url = git@github.com:chris-hamberg/statistics_and_data_analysis.git
